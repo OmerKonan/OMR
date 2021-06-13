@@ -1,0 +1,226 @@
+{
+    "dpi": 72,
+    "page": {
+      "width": 210,
+      "height": 297,
+      "type": "A4",
+      "orientation": "V",
+      "bubble_size": 5,
+      "bubble_spacing_h": 0,
+      "bubble_spacing_v": 0,
+      "font_size": 8,
+      "theme": "#fc5db0"
+    },
+    "items": [
+      {
+        "id": "TOP_LEFT_CORNER",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 5,
+        "top": 5,
+        "meta": {
+          "type": "top_left_corner",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "TOP_LEFT_BOX_1",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 18,
+        "top": 5,
+        "meta": {
+          "type": "rectangle",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "TOP_RIGHT_CORNER",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 580.2755901762044,
+        "top": 5,
+        "meta": {
+          "type": "top_right_corner",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "BOTTOM_RIGHT_CORNER",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 580.2755901762044,
+        "top": 826.8897632492034,
+        "meta": {
+          "type": "bottom_right_corner",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "BOTTOM_LEFT_CORNER",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 5,
+        "top": 826.8897632492034,
+        "meta": {
+          "type": "bottom_left_corner",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "BOTTOM_LEFT_BOX_1",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 18,
+        "top": 826.8897632492034,
+        "meta": {
+          "type": "rectangle",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "BOTTOM_RIGHT_BOX_1",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 567.2755901762044,
+        "top": 826.8897632492034,
+        "meta": {
+          "type": "rectangle",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "TOP_LEFT_BOX_2",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 31,
+        "top": 5,
+        "meta": {
+          "type": "rectangle",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "TOP_RIGHT_BOX_1",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 567.2755901762044,
+        "top": 5,
+        "meta": {
+          "type": "rectangle",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "TOP_RIGHT_BOX_2",
+        "type": "shape",
+        "width": 10,
+        "height": 10,
+        "left": 554.2755901762044,
+        "top": 5,
+        "meta": {
+          "type": "rectangle",
+          "thickness": 3
+        }
+      },
+      {
+        "id": "ESSAY_4198",
+        "type": "essay",
+        "width": 200,
+        "height": 145,
+        "left": 53,
+        "top": 57,
+        "meta": {
+          "choices": {
+            "+": {
+              "x": 238,
+              "y": 189.5,
+              "r": 5
+            },
+            "*": {
+              "x": 225.5,
+              "y": 189.5,
+              "r": 5
+            },
+            "-": {
+              "x": 213,
+              "y": 189.5,
+              "r": 5
+            }
+          }
+        }
+      },
+      {
+        "id": "OCR_6424",
+        "type": "ocr",
+        "width": 272.171142578125,
+        "height": 80,
+        "left": 90,
+        "top": 389,
+        "meta": {
+          "rows": [
+            {
+              "+": {
+                "x": 319.171142578125,
+                "y": 419,
+                "r": 5
+              },
+              "*": {
+                "x": 332.171142578125,
+                "y": 419,
+                "r": 5
+              },
+              "-": {
+                "x": 345.171142578125,
+                "y": 419,
+                "r": 5
+              }
+            },
+            {
+              "+": {
+                "x": 319.171142578125,
+                "y": 439,
+                "r": 5
+              },
+              "*": {
+                "x": 332.171142578125,
+                "y": 439,
+                "r": 5
+              },
+              "-": {
+                "x": 345.171142578125,
+                "y": 439,
+                "r": 5
+              }
+            },
+            {
+              "+": {
+                "x": 319.171142578125,
+                "y": 459,
+                "r": 5
+              },
+              "*": {
+                "x": 332.171142578125,
+                "y": 459,
+                "r": 5
+              },
+              "-": {
+                "x": 345.171142578125,
+                "y": 459,
+                "r": 5
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
